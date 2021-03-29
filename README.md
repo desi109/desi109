@@ -1,4 +1,4 @@
-[![desi109](https://github.com/desi109/desi109/blob/master/banner.jpeg)][0]
+[![desi109](https://github.com/desi109/desi109/blob/master/banner.jpg)][0]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=desi109&color=blue)][1]
 
