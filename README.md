@@ -25,7 +25,7 @@ You can see what I am currently up to on [github.com/desi109][1] .
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about things I am familiar with including **Java**, **Linux**, **Jenkins**, **JavaScript**,**JavaScript**, **Spring**, **NodeJS** and more. I also do reviews of software, hardware and cool new technologies.
+You can find my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about things I am familiar with including **Java**, **Linux**, **Jenkins**, **JavaScript**, **Vue**, **Spring**, **NodeJS** and more. I also do reviews of software, hardware and cool new technologies.
 
 <!-- ## 🤜🏻🤛🏻 Support Me
 
