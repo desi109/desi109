@@ -5,7 +5,7 @@
 
 ## Hey, 😊 ##
 
-My name is Dess, an IT student and Software Engineer from Sofia 🇧🇬. I am interested in working on cool projects, learning new things, developing with Java, Sring, JavaScript, Angular, ReactJS and NodeJS.
+My name is Dess, an IT student and Software Engineer from Sofia 🇧🇬. I am interested in working on cool projects, learning new things, developing with Java, Spring, JavaScript, Angular, ReactJS and NodeJS.
 
 You can see what I am currently up to on [github.com/desi109][1] .
 
