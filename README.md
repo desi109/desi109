@@ -41,6 +41,16 @@ You can find my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about
 * [Kafka + Druid + Superset](https://github.com/desi109/kafka-druid-superset/blob/master/Kafka%20%2B%20Druid%20%2B%20Superset.pptx)
 * [Store Managment System](https://github.com/desi109/StoreManagmentSystem_CourseProject)
 
+### 📔 Some of my cheat sheets
+* [Angular](https://github.com/desi109/cheat-sheets/tree/master/angular)
+* [Docker](https://github.com/desi109/cheat-sheets/tree/master/docker)
+* [Git and GitHub](https://github.com/desi109/cheat-sheets/tree/master/git-and-github-cheat-sheet)
+* [Jenkins](https://github.com/desi109/cheat-sheets/tree/master/jenkins)
+* [Kafka](https://github.com/desi109/cheat-sheets/tree/master/kafka)
+* [Markdownm](https://github.com/desi109/cheat-sheets/tree/master/markdown_cheat_sheet)
+* [Software Architecture](https://github.com/desi109/cheat-sheets/tree/master/software_architecture)
+* [Web API E-Shop](https://github.com/desi109/cheat-sheets/tree/master/web_api_e-shop)
+* [Other](https://github.com/desi109/cheat-sheets)
 
 <!-- ## 🤜🏻🤛🏻 Support Me
 
