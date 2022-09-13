@@ -13,7 +13,7 @@ You can see what I am currently up to on [github.com/desi109][1] .
 
 <!-- - Web: [dmilusheva.me][1] -->
 - LinkedIn: [linkedin.com/in/desislava-milusheva][2]
-- DockerHub: [hub.docker.com/u/desi109] [3] :whale:
+- DockerHub: [hub.docker.com/u/desi109][3] :whale:
 - Blog: [desi109.github.io/D.Milusheva/][4]
 - Photography Website: [desi109.github.io/diziphotography][12]
 <!-- - YouTube: [youtube.com/desi109][11] -->
