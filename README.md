@@ -13,7 +13,7 @@ You can see what I am currently up to on [github.com/desi109][1] .
 
 <!-- - Web: [dmilusheva.me][1] -->
 - LinkedIn: [linkedin.com/in/desislava-milusheva][2]
-<!--- Twitter: [twitter.com/dmilusheva][3] -->
+- DockerHub: [hub.docker.com/u/desi109] [3] :whale:
 - Blog: [desi109.github.io/D.Milusheva/][4]
 - Photography Website: [desi109.github.io/diziphotography][12]
 <!-- - YouTube: [youtube.com/desi109][11] -->
@@ -40,6 +40,7 @@ You can find my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about
 * [Bike Company app](https://github.com/desi109/bike-company-app)
 * [Kafka + Druid + Superset](https://github.com/desi109/kafka-druid-superset/blob/master/Kafka%20%2B%20Druid%20%2B%20Superset.pptx)
 * [Store Managment System](https://github.com/desi109/StoreManagmentSystem_CourseProject)
+* [Zip Splitter Utility](https://github.com/desi109/zip-splitter)
 
 ### 📔 Some of my cheat sheets
 * [Angular](https://github.com/desi109/cheat-sheets/tree/master/angular)
@@ -89,7 +90,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻 -->
 [0]:  https://github.com/desi109/desi109/blob/master/banner.jpeg
 [1]: https://github.com/desi109
 [2]: https://www.linkedin.com/in/desislava-milusheva-200574151/
-<!-- [3]: https://twitter.com/intent/follow?screen_name=dmilusheva -->
+[3]: https://hub.docker.com/u/desi109
 [4]: https://desi109.github.io/D.Milusheva/
 <!-- [5]: https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
 [6]: https://medium.com/@desi109
