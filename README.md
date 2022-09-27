@@ -48,6 +48,7 @@ You can find my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about
 * [Git and GitHub](https://github.com/desi109/cheat-sheets/tree/master/git-and-github-cheat-sheet)
 * [Jenkins](https://github.com/desi109/cheat-sheets/tree/master/jenkins)
 * [Kafka](https://github.com/desi109/cheat-sheets/tree/master/kafka)
+* [Kubernetes](https://github.com/desi109/cheat-sheets/tree/master/kubernetes)
 * [Markdown](https://github.com/desi109/cheat-sheets/tree/master/markdown_cheat_sheet)
 * [Software Architecture](https://github.com/desi109/cheat-sheets/tree/master/software_architecture)
 * [Web API E-Shop](https://github.com/desi109/cheat-sheets/tree/master/web_api_e-shop)
