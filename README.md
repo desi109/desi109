@@ -3,9 +3,9 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=desi109&color=blue)][1]
 
 
-## Hey, 😊 ##
+## Hey 😊 ##
 
-My name is Dess, an IT student and Software Engineer from Sofia 🇧🇬. I am interested in working on cool projects, learning new things, developing with Java, Spring, Python, JavaScript, Angular, Vue and NodeJS.
+My name is Dess, an IT student and Software Engineer from Sofia 🇧🇬. I am interested in working on cool projects, learning new things, and developing with Java, OSGi, Spring Boot, Angular, Vue.js, Kafka, and others.
 
 You can see what I am currently up to on [github.com/desi109][1] .
 
@@ -25,7 +25,8 @@ You can see what I am currently up to on [github.com/desi109][1] .
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about things I am familiar with including **Java**, **Linux**, **Jenkins**, **JavaScript**, **Vue**, **Spring**, **NodeJS**, **Python** and more. I also do reviews of software, hardware and cool new technologies.
+You can find my cheet cheets on [Some-of-my-cheat-sheets][13], and my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about things I am familiar with including **Java**, **Linux**, **Anguar**, **Docker**, **Git and GitHub**, **Jenkins**, **Kafak**, **Kubernetes**, and more. 
+
 
 ## 💻 University Projects
 * [linkio.space](https://github.com/desi109/linkio-space)
@@ -104,6 +105,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻 -->
 [10]: https://dev.to/desi109
 [11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
 [12]: https://desi109.github.io/diziphotography
+[13]: https://github.com/desi109#-some-of-my-cheat-sheets
 
 
 
