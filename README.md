@@ -25,7 +25,7 @@ You can see what I am currently up to on [github.com/desi109][1] .
 
 ## 🌳 My Digital Garden
 
-You can find my cheet cheets on [Some-of-my-cheat-sheets][13], and my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about things I am familiar with including **Java**, **Linux**, **Anguar**, **Docker**, **Git and GitHub**, **Jenkins**, **Kafak**, **Kubernetes**, and more. 
+You can find my cheet cheets on [Some-of-my-cheat-sheets][13], and my blog posts on [desi109.github.io/D.Milusheva/][4]. I write about things I am familiar with including **Java**, **Linux**, **Angular**, **OSGi**, **Spring Boot**, **Docker**, **Git and GitHub**, **Jenkins**, **Kafak**, **Kubernetes**, and more. 
 
 
 ## 💻 University Projects
