@@ -35,7 +35,7 @@ You can find my cheet cheets on [Some-of-my-cheat-sheets][13], and my blog posts
 * [AWS presentation](https://github.com/desi109/aws-presentation/blob/master/Amazon%20Cloud%20Platform%20(AWS)%20-%20Desislava%20Milusheva%20.pdf)
 * [OS task and presentation - Write a shell script that produces a file of sequential numbers](https://github.com/desi109/race-task/blob/master/Presentation/Course%20project_%20Operating%20Systems%20-%20Write%20a%20shell%20script%20that%20produces%20a%20file%20of%20sequential%20numbers.pdf)
 * [Multiple sequence alignment of 10 genetic sequences of SARS-2 (gene 3) – T-Coffee](https://github.com/desi109/SARS-Cov-2-gene-3-multiple-sequence-alignment/blob/master/Course%20project_%20Bioinformatics%20-%20Multiple%20sequence%20alignment%20of%2010%20genetic%20sequences%20of%20SARS-2%20(gene%203)%20%E2%80%93%20T-Coffee.pdf)
-* [Setup HTTP server under Linux](https://github.com/desi109/configuring-http-server-under-linux/blob/master/Course%20project:%20Computer%20Networks%20and%20Network%20Administration%20-%20Installing%20and%20configuring%20an%20HTTP%20server%20under%20Linux.pdf)
+* [Setup HTTP server under Linux](https://github.com/desi109/configuring-http-server-under-linux/blob/master/Course%20project:%20Computer%20Networks%20and%20Network%20Administration%20-%20Setup%20%20HTTP%20server%20under%20Linux.pdf)
 * [Software_Architectures - abstract](https://github.com/desi109/software-architectures/blob/master/Software_Architectures--abstract/Software_Architectures-abstract-Desislava_Milusheva.pdf)
 * [Store Managment System](https://github.com/desi109/StoreManagmentSystem_CourseProject)
 
